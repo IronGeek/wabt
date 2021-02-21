@@ -1,6 +1,6 @@
 {
   "name": "@irongeek/wabt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The WebAssembly Binary Toolkit installation via NPM",
   "author": "Jakka Prihatna <jprihatna@gmail.com>",
   "license": "MIT",
@@ -17,6 +17,15 @@
   },
   "files": [
     "install.sh"
+  ],
+  "keywords": [
+    "webassemby",
+    "web",
+    "assembly",
+    "wasm",
+    "binary",
+    "toolkit",
+    "wabt"
   ],
   "bin": {
     "wat2wasm": "bin/wat2wasm",
